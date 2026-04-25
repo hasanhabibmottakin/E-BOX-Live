@@ -1,0 +1,182 @@
+[
+    {
+        "id": "109",
+        "name": "Tsports",
+        "logo": "http://10.90.90.198/assets/images/Tsports.png",
+        "category": "Sports"
+    },
+    {
+        "id": "137",
+        "name": "Nagorik TV",
+        "logo": "http://10.90.90.198/assets/images/Nagorik TV .png",
+        "category": "Sports"
+    },
+    {
+        "id": "103",
+        "name": "GTV",
+        "logo": "http://10.90.90.198/assets/images/GTV.png",
+        "category": "Sports"
+    },
+    {
+        "id": "128",
+        "name": "Star-sports-1-Hindi",
+        "logo": "http://10.90.90.198/assets/images/Star-sports-1-Hindi.png",
+        "category": "Sports"
+    },
+    {
+        "id": "110",
+        "name": "Star-sports1",
+        "logo": "http://10.90.90.198/assets/images/Star-sports1.png",
+        "category": "Sports"
+    },
+    {
+        "id": "111",
+        "name": "Star-Sports2",
+        "logo": "http://10.90.90.198/assets/images/Star-Sports2.png",
+        "category": "Sports"
+    },
+    {
+        "id": "115",
+        "name": "Star-Sports-Select1",
+        "logo": "http://10.90.90.198/assets/images/Star-Sports-Select1.png",
+        "category": "Sports"
+    },
+    {
+        "id": "116",
+        "name": "Star-Sports-Select2",
+        "logo": "http://10.90.90.198/assets/images/Star-Sports-Select2.png",
+        "category": "Sports"
+    },
+    {
+        "id": "112",
+        "name": "Sony-Ten1",
+        "logo": "http://10.90.90.198/assets/images/Sony-Ten1.png",
+        "category": "Sports"
+    },
+    {
+        "id": "113",
+        "name": "Sony-Ten2",
+        "logo": "http://10.90.90.198/assets/images/Sony-Ten2.png",
+        "category": "Sports"
+    },
+    {
+        "id": "114",
+        "name": "Sony-Ten3",
+        "logo": "http://10.90.90.198/assets/images/Sony-Ten3.png",
+        "category": "Sports"
+    },
+    {
+        "id": "118",
+        "name": "Zee-Bangla",
+        "logo": "http://10.90.90.198/assets/images/Zee-Bangla.png",
+        "category": "Bangla"
+    },
+    {
+        "id": "119",
+        "name": "Star-Jalsha",
+        "logo": "http://10.90.90.198/assets/images/Star-Jalsha.png",
+        "category": "Bangla"
+    },
+    {
+        "id": "120",
+        "name": "Jalsha-Movies",
+        "logo": "http://10.90.90.198/assets/images/Jalsha-Movies.png",
+        "category": "Bangla"
+    },
+    {
+        "id": "121",
+        "name": "Colors-Bangla",
+        "logo": "http://10.90.90.198/assets/images/Colors-Bangla.png",
+        "category": "Bangla"
+    },
+    {
+        "id": "122",
+        "name": "Sony-Aath",
+        "logo": "http://10.90.90.198/assets/images/Sony-Aath.png",
+        "category": "Bangla"
+    },
+    {
+        "id": "123",
+        "name": "Somoy-TV",
+        "logo": "http://10.90.90.198/assets/images/Somoy-TV.png",
+        "category": "Bangla"
+    },
+    {
+        "id": "124",
+        "name": "atnbangla",
+        "logo": "http://10.90.90.198/assets/images/atnbangla.png",
+        "category": "Bangla"
+    },
+    {
+        "id": "125",
+        "name": "atnnews",
+        "logo": "http://10.90.90.198/assets/images/atnnews.png",
+        "category": "Bangla"
+    },
+    {
+        "id": "126",
+        "name": "Dbc",
+        "logo": "http://10.90.90.198/assets/images/Dbc.png",
+        "category": "Bangla"
+    },
+    {
+        "id": "127",
+        "name": "ChannelI",
+        "logo": "http://10.90.90.198/assets/images/ChannelI.png",
+        "category": "Bangla"
+    },
+    {
+        "id": "102",
+        "name": "Jamunatv",
+        "logo": "http://10.90.90.198/assets/images/Jamunatv.png",
+        "category": "Bangla"
+    },
+    {
+        "id": "130",
+        "name": "Duronto-TV",
+        "logo": "http://10.90.90.198/assets/images/Duronto-TV.png",
+        "category": "Bangla"
+    },
+    {
+        "id": "129",
+        "name": "Star-plus",
+        "logo": "http://10.90.90.198/assets/images/Star-plus.png",
+        "category": "Hindi"
+    },
+    {
+        "id": "134",
+        "name": "Star-Gold",
+        "logo": "http://10.90.90.198/assets/images/Star-Gold.png",
+        "category": "Hindi"
+    },
+    {
+        "id": "135",
+        "name": "Zee-Cinema",
+        "logo": "http://10.90.90.198/assets/images/Zee-Cinema.png",
+        "category": "Hindi"
+    },
+    {
+        "id": "136",
+        "name": "And-Picture",
+        "logo": "http://10.90.90.198/assets/images/And-Picture.png",
+        "category": "Hindi"
+    },
+    {
+        "id": "133",
+        "name": "Star-Movie",
+        "logo": "http://10.90.90.198/assets/images/Star-Movie.png",
+        "category": "English"
+    },
+    {
+        "id": "132",
+        "name": "sony-Pix",
+        "logo": "http://10.90.90.198/assets/images/sony-Pix.png",
+        "category": "English"
+    },
+    {
+        "id": "131",
+        "name": "Discovery",
+        "logo": "http://10.90.90.198/assets/images/Discovery.png",
+        "category": "English"
+    }
+]
